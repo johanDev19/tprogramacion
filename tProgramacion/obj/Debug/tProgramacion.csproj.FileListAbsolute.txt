@@ -1,0 +1,9 @@
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\obj\Debug\tProgramacion.csprojResolveAssemblyReference.cache
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\obj\Debug\tProgramacion.Form1.resources
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\obj\Debug\tProgramacion.Properties.Resources.resources
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\obj\Debug\tProgramacion.csproj.GenerateResource.Cache
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\bin\Debug\tProgramacion.exe.config
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\bin\Debug\tProgramacion.exe
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\bin\Debug\tProgramacion.pdb
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\obj\Debug\tProgramacion.exe
+c:\users\jhoan\documents\visual studio 2017\Projects\tProgramacion\tProgramacion\obj\Debug\tProgramacion.pdb
