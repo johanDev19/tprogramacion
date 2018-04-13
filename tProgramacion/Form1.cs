@@ -37,8 +37,15 @@ namespace tProgramacion
 
             }
             
+            //revisar si el año es mayot a 20 para sumar dos valores
+            if ((date.Year % 100) > 20)
+            {
+                year = n[20] + " " + n[((date.Year % 100) - 20) - 1];
+
+            }
+            
             //escribir en pantalla la fecha escrita
-            MessageBox.Show("Hoy es el dia " + dia + " de " + m[date.Month - 1] + " del año " + year);
+            label1.Text = "Hoy es el dia " + dia + " de " + m[date.Month - 1] + " del año " + year;
 
 
             
