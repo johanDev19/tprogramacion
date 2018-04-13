@@ -29,6 +29,17 @@ namespace tProgramacion
             //dar valor por defecto a dia y año
             string dia = n[((date.Day <= 20) ? date.Day : 20) - 1];
             string year = n[(((date.Year % 100) <= 20) ? (date.Year % 100) : 20) - 1];
+            
+            //revisar si el dia es mayot a 20 para sumar dos valores
+            if ((date.Day - 1) > 20)
+            {
+                dia = n[20] + " " + n[(date.Day - 20) - 1];
+
+            }
+            
+            //escribir en pantalla la fecha escrita
+            MessageBox.Show("Hoy es el dia " + dia + " de " + m[date.Month - 1] + " del año " + year);
+
 
             
 
